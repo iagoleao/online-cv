@@ -1,6 +1,6 @@
 
 title: My Resume
-url: 'http://webjeda.com'
+url: 'http://iagoleao.com.br'
 baseurl: '/online-cv' #change it according to your repository name
 
 
@@ -23,6 +23,5 @@ phone: +55 75 9.9114-8678
 website: contato@iagoleao.com.br #do not add http://
 linkedin: iago-leao
 github: iagoleao
-twitter: '@webjeda'
 
 #Update all the sections by editing the files inside _includes folder.
