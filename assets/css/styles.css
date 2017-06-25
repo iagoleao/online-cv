@@ -306,7 +306,7 @@ used for profile image
 }
 
 @media print {
-.skills-section * {-webkit-print-color-adjust: exact;}
+.skills-section * {-webkit-print-color-adjust: exact !important;}
   .education-container, .languages-container, .interests-container{ width: 33.3%; float:left; }
   .sidebar-wrapper .container-block { padding: 20px 30px; }
 }
