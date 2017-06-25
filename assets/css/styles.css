@@ -304,3 +304,8 @@ used for profile image
   border-radius: 100%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
+
+@media print {
+.skills-section * {-webkit-print-color-adjust: exact;}
+  .sidebar-wrapper .container-block{ width: 33.3%; }
+}
